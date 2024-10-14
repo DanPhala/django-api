@@ -12,19 +12,19 @@ This is a Holiday Planner API built using **Django** and **Django Rest Framework
 ## Tools used 
 #### Django : Django is a free and open-source, Python-based web framework that runs on a web server.
 
-![alt text](image.png)
+![alt text](media/image.png)
 
 ### SQLite: SQLite is a database engine written in the C programming language.
 
-![alt text](image-1.png)
+![alt text](media/image-1.png)
 
 ### Open-meteo : Open-Source ☀️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ Weather API with free access for non-commercial use.
 
-![alt text](image-2.png)
+![alt text](media/image-2.png)
 
 ### Docker : Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers
 
-![alt text](image-3.png)
+![alt text](media/image-3.png)
 
 ## API Endpoints
 
@@ -84,7 +84,7 @@ docker compose up --build
     }
 ```
 
-![alt text](image-4.png)
+![alt text](media/image-4.png)
 
 
 ## Contacts: 
