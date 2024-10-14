@@ -87,6 +87,12 @@ docker compose up --build
 ![alt text](media/image-4.png)
 
 
+## Limitations, known bugs, wishlist
+- The biggest limitation will always be time available to complete a task. 
+- Known bugs : the api opens port 8000 by default instead of navigating to 8000/destination
+- Time take: 3 hours 20 minutes due to having python environment issues with pytest
+- wishlist : expend the tests, write the auth endpoint.
+
 ## Contacts: 
 ### Author : Dan Phala
 ### Emal : mrphalad@gmail.com 
